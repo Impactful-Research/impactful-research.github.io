@@ -1,10 +1,16 @@
 # main links
 main:
-  - title: Home
+  - title: "Home / 主页"
     url: /
 
-  - title: Posts
+  - title: "Series / 系列"
+    url: /categories/
+
+  - title: "Areas / 领域"
+    url: /tags/
+
+  - title: "Archive / 归档"
     url: /year-archive/
 
-  - title: About
+  - title: "About Us / 关于我们"
     url: /about/

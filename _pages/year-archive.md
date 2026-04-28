@@ -1,5 +1,5 @@
 ---
-title: "Posts by Year"
+title: "Archive / 归档"
 permalink: /year-archive/
 layout: posts
 classes: wide

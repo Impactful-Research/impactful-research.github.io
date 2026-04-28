@@ -5,13 +5,17 @@
   {% endif %}
 {% endfor %}
 
+{% assign labels = site.data.labels[include.kind] %}
+
 <ul class="taxonomy__index">
   {% for i in (1..items_max) reversed %}
     {% for item in include.taxonomies %}
       {% if item[1].size == i %}
+        {% assign item_key = item[0] %}
+        {% assign label = labels[item_key] %}
         <li>
-          <a href="#{{ item[0] | slugify }}">
-            <strong>{{ item[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
+          <a href="#{{ item_key | slugify }}">
+            <strong>{% if label %}{{ label.en }} / {{ label.zh }}{% else %}{{ item_key }}{% endif %}</strong> <span class="taxonomy__count">{{ i }}</span>
           </a>
         </li>
       {% endif %}
@@ -23,8 +27,10 @@
 {% for i in (1..items_max) reversed %}
   {% for taxonomy in include.taxonomies %}
     {% if taxonomy[1].size == i %}
-      <section id="{{ taxonomy[0] | slugify }}" class="taxonomy__section">
-        <h2 class="archive__subtitle">{{ taxonomy[0] }}</h2>
+      {% assign tax_key = taxonomy[0] %}
+      {% assign label = labels[tax_key] %}
+      <section id="{{ tax_key | slugify }}" class="taxonomy__section">
+        <h2 class="archive__subtitle">{% if label %}{{ label.en }} / {{ label.zh }}{% else %}{{ tax_key }}{% endif %}</h2>
         <div class="entries-{{ entries_layout }}">
           {% for post in taxonomy.last %}
             {% include archive-single.html type=entries_layout %}

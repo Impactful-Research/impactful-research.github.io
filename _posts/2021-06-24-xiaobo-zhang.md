@@ -4,9 +4,18 @@ date: 2021-06-24 10:06:24 +0800
 author: "秦雨"
 excerpt: "张晓波教授来分享他的创作心得啦！"
 categories:
-  - blog
+  - featured
+tags:
+  - macro
+  - labor
+  - development
 original_url: https://mp.weixin.qq.com/s/snmCNU7tc3d4zjhT117_hw
 ---
+
+*本文最初于 2021 年 6 月 24 日 发布于微信公众号 Impactful Research；2026 年 4 月 28 日 同步至本网站。*
+
+*Originally published on the WeChat official account Impactful Research on 2021-06-24; mirrored to this website on 2026-04-28.*
+
 ![](/assets/images/posts/xiaobo-zhang/img-01.png)
 
 来源：网易新闻
@@ -84,4 +93,3 @@ Wei, S.J., Zhang, X. and Liu, Y., 2017. Home ownership as status competition: So
 责任编辑 | 秦雨、韩亚婕、战昶威  
 
 校对 | 张晓波
-

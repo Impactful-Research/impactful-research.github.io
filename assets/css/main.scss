@@ -5,5 +5,12 @@ search: false
 
 @charset "utf-8";
 
+// Type-size overrides — bump base font for long-form bilingual reading.
+// Defaults: 16 / 18 / 20 / 22 px across breakpoints. Edit here, then restart jekyll.
+$doc-font-size:         17px;
+$doc-font-size-medium:  $doc-font-size * 1.125;
+$doc-font-size-large:   $doc-font-size * 1.25;
+$doc-font-size-x-large: $doc-font-size * 1.375;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

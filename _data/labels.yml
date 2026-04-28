@@ -1,0 +1,28 @@
+# Bilingual display labels for categories and tags.
+# Slugs (the keys) stay ASCII English so URLs and Liquid lookups remain stable.
+# When a slug is missing here, templates fall back to the slug itself.
+
+categories:
+  featured:  { en: "Featured",         zh: "影响力之作" }
+  jmp:       { en: "JMP",              zh: "就业市场论文" }
+  wisdom:    { en: "Research Insights", zh: "做研究心得" }
+  essays:    { en: "Essays",           zh: "随笔" }
+  pioneer:   { en: "Pioneer",          zh: "开拓者" }
+
+tags:
+  econometrics:    { en: "Econometrics",            zh: "计量经济学" }
+  micro:           { en: "Microeconomics",          zh: "微观经济学" }
+  macro:           { en: "Macroeconomics",          zh: "宏观经济学" }
+  international:   { en: "International Economics", zh: "国际经济学" }
+  finance:         { en: "Finance",                 zh: "金融经济学" }
+  public:          { en: "Public Economics",        zh: "公共经济学" }
+  health-education: { en: "Health & Education",     zh: "健康与教育" }
+  labor:           { en: "Labor Economics",         zh: "劳动经济学" }
+  law-econ:        { en: "Law & Economics",         zh: "法律与经济学" }
+  io:              { en: "Industrial Organization", zh: "产业组织" }
+  business:        { en: "Business Administration", zh: "工商管理" }
+  econ-history:    { en: "Economic History",        zh: "经济史" }
+  development:     { en: "Development Economics",   zh: "发展经济学" }
+  environment:     { en: "Environmental Economics", zh: "环境经济学" }
+  urban-regional:  { en: "Urban & Regional",        zh: "城市与区域经济学" }
+  culture:         { en: "Cultural Economics",      zh: "文化经济学" }

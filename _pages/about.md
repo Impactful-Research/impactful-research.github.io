@@ -2,9 +2,11 @@
 layout: single
 classes: wide
 author_profile: true
-title: "About"
+title: "About Us / 关于我们"
 permalink: /about/
 ---
+
+## Why we built this · 缘起
 
 作为科研工作者，一个最重要的职业理想应该是做出有影响力的高质量研究。然而当我仰望那些发在领域顶刊，引用数上千，对政策制定产生重要影响力的论文时，我脑海里浮现的第一个问题就是：
 
@@ -27,6 +29,17 @@ So we decided to ask the authors of these high-impact papers about how their wor
 We are deeply grateful to these distinguished scholars for taking the time to share their experience so generously, and we founded the WeChat official account *Impactful Research* in the hope that more researchers can find inspiration in what they have to say.
 
 The WeChat official account launched in June 2021; as of April 2026, posts are also mirrored on this website.
+
+---
+
+## Team · 团队
+
+- [Ruochen Dai 戴若尘](https://econ.cufe.edu.cn/info/1033/6641.htm)
+- [Yajie Han 韩亚婕](https://www.hanyajie.com/)
+- [Ming Li 李明](https://sites.google.com/view/mingli1)
+- [Yu Qin 秦雨](http://www.qinyurain.com/)
+- [Tianyue Ruan 阮天悦](https://truan.github.io/)
+- [Fan Zhang 张帆](https://sites.google.com/view/zack-zhangfan/zhang-fan%E5%BC%A0%E5%B8%86)
 
 ---
 
