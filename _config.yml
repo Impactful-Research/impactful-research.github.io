@@ -105,7 +105,7 @@ author:
   avatar           : "/assets/images/profile.jpg"
   bio              : "In-depth interviews with impactful researchers"
   location         :
-  email            :
+  email            : "impactful.research.blog@gmail.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
