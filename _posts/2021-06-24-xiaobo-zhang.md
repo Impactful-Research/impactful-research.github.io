@@ -1,7 +1,8 @@
 ---
 title: "张晓波教授谈JPE2011创作心得"
 date: 2021-06-24 10:06:24 +0800
-author: "秦雨"
+authors:
+  - qinyu
 excerpt: "张晓波教授来分享他的创作心得啦！"
 categories:
   - featured
@@ -90,6 +91,6 @@ Wei, S.J., Zhang, X. and Liu, Y., 2017. Home ownership as status competition: So
 
 谭之博、张晓波, 2016. “独生子女政策的精神健康成本：基于倍差法估计,”《经济研究》，第2期：168-180。
 
-责任编辑 | 秦雨、韩亚婕、战昶威  
+责任编辑 | [秦雨](http://www.qinyurain.com/)、[韩亚婕](https://www.hanyajie.com/)、战昶威  
 
 校对 | 张晓波

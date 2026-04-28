@@ -1,7 +1,8 @@
 ---
 title: "方汉明教授谈AER 2006创作心得"
 date: 2021-08-10 09:30:00 +0800
-author: "秦雨"
+authors:
+  - qinyu
 excerpt: "方汉明教授分享AER创作经验！"
 categories:
   - featured
@@ -86,8 +87,8 @@ Anwar,S. and Fang, H., 2015. Testing for racial prejudice in the parole board re
 
 Anwar,S. and Fang, H., 2012. Testing for the role of prejudice in emergency departments using bounceback rates.  _The BE Journal of Economic Analysis & Policy_,  _13_(3).
 
-中文翻译 | 李明
+中文翻译 | [李明](https://sites.google.com/view/mingli1)
 
-责任编辑 | 秦雨、韩亚婕、战昶威
+责任编辑 | [秦雨](http://www.qinyurain.com/)、[韩亚婕](https://www.hanyajie.com/)、战昶威
 
 校对 | 方汉明

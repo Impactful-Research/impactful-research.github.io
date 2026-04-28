@@ -1,7 +1,8 @@
 ---
 title: "Dávid Krisztián Nagy教授分享经济地理学研究心得"
 date: 2025-06-13 11:01:55 +0800
-author: "张帆"
+authors:
+  - fanzhang
 excerpt: "Dávid Krisztián Nagy 分享经济地理学研究心得！"
 categories:
   - featured
@@ -276,7 +277,7 @@ Dávid Krisztián Nagy博士是西班牙国际经济研究中心（Centre de Rec
 
 [8] Redding, S. J. (2016). Goods trade, factor mobility and welfare. Journal of International Economics, 101, 148-167.
 
-责任编辑 | 张帆
+责任编辑 | [张帆](https://sites.google.com/view/zack-zhangfan/zhang-fan%E5%BC%A0%E5%B8%86)
 
 整理翻译 | 张诗怡
 

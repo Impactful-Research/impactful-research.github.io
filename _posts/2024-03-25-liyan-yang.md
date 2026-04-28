@@ -1,7 +1,9 @@
 ---
 title: "杨立岩教授分享如何做出好的研究"
 date: 2024-03-25 10:00:22 +0800
-author: "李明、阮天悦"
+authors:
+  - mingli
+  - tianyueruan
 excerpt: "杨立岩教授来分享创作心得啦！"
 categories:
   - wisdom
@@ -166,7 +168,7 @@ Indjejikian, R., H. Lu, and L. Yang. "Rational information leakage." _Management
 
 Tian, G., and L. Yang. "Theory of negative consumption externalities with applications to the economics of happiness."  _Economic Theory_ 39 (2009): 399-424.
 
-责任编辑 | 李明、秦雨、阮天悦  
+责任编辑 | [李明](https://sites.google.com/view/mingli1)、[秦雨](http://www.qinyurain.com/)、[阮天悦](https://truan.github.io/)  
 
 整理翻译 | 庞乃琛
 

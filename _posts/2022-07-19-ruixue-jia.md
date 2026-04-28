@@ -1,7 +1,8 @@
 ---
 title: "贾瑞雪教授谈Econometrica（2016）创作心得"
 date: 2022-07-19 10:30:44 +0800
-author: "秦雨"
+authors:
+  - qinyu
 excerpt: "贾瑞雪教授来分享Econometrica（2016）创作心得啦！"
 categories:
   - featured
@@ -205,7 +206,7 @@ Bai, Ying, and Ruixue Jia. "Elite Recruitment and Political Stability: The Impac
 
 Benabou, Roland, and Efe A. Ok. "Social Mobility and the Demand for Redistribution: The Poum Hypothesis." _The Quarterly Journal of Economics_ 116.2 (2001): 447-487.
 
-责任编辑 | 秦雨  
+责任编辑 | [秦雨](http://www.qinyurain.com/)  
 
 整理翻译 | 庞乃琛
 

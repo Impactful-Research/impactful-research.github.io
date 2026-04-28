@@ -1,7 +1,8 @@
 ---
 title: "贾攀乐教授谈 Econometrica (2008) 创作心得"
 date: 2022-02-25 10:00:00 +0800
-author: "秦雨"
+authors:
+  - qinyu
 excerpt: "康奈尔大学贾攀乐教授分享 Econometrica (2008) 创作经验"
 categories:
   - featured

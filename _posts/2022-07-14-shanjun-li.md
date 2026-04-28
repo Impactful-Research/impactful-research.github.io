@@ -1,7 +1,8 @@
 ---
 title: "李善军教授谈RES（2018）创作心得"
 date: 2022-07-14 10:00:46 +0800
-author: "秦雨"
+authors:
+  - qinyu
 excerpt: "李善军教授来分享RES（2018）创作心得啦！"
 categories:
   - featured
@@ -78,7 +79,7 @@ I guess one example in how I changed the framing of the question was to emphasiz
 
 Li, Shanjun. "Better Lucky Than Rich? Welfare Analysis of Automobile License Allocations in Beijing and Shanghai." _Review of Economic Studies_ 85.4 (2018): 2389-2428.
 
-责任编辑 | 秦雨  
+责任编辑 | [秦雨](http://www.qinyurain.com/)  
 
 中文翻译 | 庞乃琛
 

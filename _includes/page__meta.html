@@ -1,6 +1,17 @@
 {% assign document = post | default: page %}
-{% if document.read_time or document.show_date %}
+{% if document.read_time or document.show_date or document.authors %}
   <p class="page__meta">
+    {% if document.authors %}
+      <span class="page__meta-byline">
+        <i class="far fa-fw fa-user" aria-hidden="true"></i>
+        {% for key in document.authors %}
+          {% assign a = site.data.authors[key] %}
+          {% if a %}{% if a.url %}<a href="{{ a.url }}" rel="nofollow noopener noreferrer">{{ a.name }}</a>{% else %}{{ a.name }}{% endif %}{% else %}{{ key }}{% endif %}{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+      </span>
+      {% if document.read_time or document.show_date %}<span class="page__meta-sep"></span>{% endif %}
+    {% endif %}
+
     {% if document.show_date and document.date %}
       {% assign date = document.date %}
       <span class="page__meta-date">

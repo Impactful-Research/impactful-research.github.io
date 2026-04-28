@@ -1,0 +1,23 @@
+# Team members keyed by pinyin slug.
+# `name` is the Chinese display name (the byline shows Chinese-only).
+# `url` links to the author's personal website. Team members not listed
+# here render in bylines as plain text without a hyperlink.
+
+ruochendai:
+  name: "戴若尘"
+  url: "https://econ.cufe.edu.cn/info/1033/6641.htm"
+yajiehan:
+  name: "韩亚婕"
+  url: "https://www.hanyajie.com/"
+mingli:
+  name: "李明"
+  url: "https://sites.google.com/view/mingli1"
+qinyu:
+  name: "秦雨"
+  url: "http://www.qinyurain.com/"
+tianyueruan:
+  name: "阮天悦"
+  url: "https://truan.github.io/"
+fanzhang:
+  name: "张帆"
+  url: "https://sites.google.com/view/zack-zhangfan/zhang-fan%E5%BC%A0%E5%B8%86"

@@ -1,7 +1,8 @@
 ---
 title: "Loren Brandt教授分享JDE(2012)创作心得"
 date: 2025-01-28 08:59:32 +0800
-author: "戴若尘"
+authors:
+  - ruochendai
 excerpt: "Loren Brandt教授万字干货分享来袭！"
 categories:
   - featured
@@ -306,7 +307,7 @@ Loren Brandt is the Noranda Chair Professor of Economics at the University of To
 
 [4]Brandt, Loren, and Xiaodong Zhu. "Redistribution in a decentralized economy: Growth and inflation in China under reform."  _Journal of Political Economy_ 108.2 (2000): 422-439.
 
-责任编辑 | 戴若尘  
+责任编辑 | [戴若尘](https://econ.cufe.edu.cn/info/1033/6641.htm)  
 
 整理翻译 | 张诗怡
 

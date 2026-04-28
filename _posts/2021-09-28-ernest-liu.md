@@ -1,7 +1,8 @@
 ---
 title: "Ernest Liu谈QJE2019创作心得"
 date: 2021-09-28 09:00:00 +0800
-author: "李明"
+authors:
+  - mingli
 excerpt: "Ernest Liu教授来分享JMP创作心得啦！"
 categories:
   - jmp
@@ -98,6 +99,6 @@ Hsieh, Chang-Tai, and Zheng Michael Song. Grasp the large, let go of the small: 
 
 Song, Zheng, Kjetil Storesletten, and Fabrizio Zilibotti. "Growing like China."  _American Economic Review_ 101.1 (2011): 196-233.
 
-责任编辑 | 秦雨、李明、Cindy、韩亚婕  
+责任编辑 | [秦雨](http://www.qinyurain.com/)、[李明](https://sites.google.com/view/mingli1)、Cindy、[韩亚婕](https://www.hanyajie.com/)  
 
 校对 | Ernest Liu

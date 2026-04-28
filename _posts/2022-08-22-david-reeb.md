@@ -1,7 +1,9 @@
 ---
 title: "David Reeb教授谈JF（2003）创作心得"
 date: 2022-08-22 10:00:23 +0800
-author: "阮天悦  李明"
+authors:
+  - tianyueruan
+  - mingli
 excerpt: "David Reeb教授来分享JF（2003）创作心得啦！"
 categories:
   - featured
@@ -213,7 +215,7 @@ Anderson, Ronald C., and David M. Reeb. "Founding-Family Ownership, Corporate Di
 
 Fama, Eugene F., and Michael C. Jensen. "Separation of Ownership and Control." _The Journal of Law and Economics_ 26.2 (1983): 301-325.
 
-责任编辑 | 阮天悦、李明  
+责任编辑 | [阮天悦](https://truan.github.io/)、[李明](https://sites.google.com/view/mingli1)  
 
 整理翻译 | 庞乃琛
 

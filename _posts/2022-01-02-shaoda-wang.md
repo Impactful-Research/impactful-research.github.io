@@ -1,7 +1,8 @@
 ---
 title: "王绍达教授谈JMP创作心得"
 date: 2022-01-02 09:00:00 +0800
-author: "李明"
+authors:
+  - mingli
 excerpt: "王绍达教授来分享JMP创作心得啦！"
 categories:
   - jmp
@@ -85,6 +86,6 @@ original_url: https://mp.weixin.qq.com/s/4GNsy1ee63AcIlLp1-reeg
 
 He, Guojun, Shaoda Wang, and Bing Zhang. "Watering down environmental regulation in China." The Quarterly Journal of Economics 135, no. 4 (2020): 2135-2185.
 
-责任编辑 | 李明、杜琛怡  
+责任编辑 | [李明](https://sites.google.com/view/mingli1)、杜琛怡  
 
 校对 | 王绍达

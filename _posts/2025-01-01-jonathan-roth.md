@@ -1,7 +1,9 @@
 ---
 title: "Jonathan Roth教授分享计量经济学研究心得"
 date: 2025-01-01 09:02:08 +0800
-author: "秦雨 张帆"
+authors:
+  - qinyu
+  - fanzhang
 excerpt: "Jonathan Roth教授分享计量经济学研究心得！"
 categories:
   - wisdom
@@ -96,7 +98,7 @@ Rambachan, Ashesh, and Jonathan Roth. "A more credible approach to parallel tren
 
 Chen, Jiafeng, and Jonathan Roth. "Logs with zeros? Some problems and solutions." The Quarterly Journal of Economics 139, no. 2 (2024): 891-936.
 
-责任编辑 | 秦雨 张帆  
+责任编辑 | [秦雨](http://www.qinyurain.com/) [张帆](https://sites.google.com/view/zack-zhangfan/zhang-fan%E5%BC%A0%E5%B8%86)  
 
 整理翻译 | 谈明康 张诗怡
 

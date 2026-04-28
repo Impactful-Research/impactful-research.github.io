@@ -1,7 +1,8 @@
 ---
 title: "宋铮教授分享如何做出好的研究"
 date: 2021-09-01 11:19:57 +0800
-author: "秦雨"
+authors:
+  - qinyu
 excerpt: "宋铮教授分享如何做出好的研究！"
 categories:
   - wisdom
@@ -69,8 +70,8 @@ After getting tenured, if your salary can help you maintain a good life, top pub
 
 Growing like China (with Kjetil Storesletten and Fabrizio Zilibotti),  _American Economic Review,_ 2011, 101(1): 196-233.
 
-中文翻译 | 秦雨
+中文翻译 | [秦雨](http://www.qinyurain.com/)
 
-责任编辑 | 秦雨、韩亚婕、张淑婷
+责任编辑 | [秦雨](http://www.qinyurain.com/)、[韩亚婕](https://www.hanyajie.com/)、张淑婷
 
 校对 | 宋铮

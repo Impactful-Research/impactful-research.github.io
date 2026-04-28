@@ -1,7 +1,8 @@
 ---
 title: "王天一教授谈JMP创作心得"
 date: 2022-02-17 09:30:48 +0800
-author: "李明"
+authors:
+  - mingli
 excerpt: "王天一教授来分享JMP创作心得啦！"
 categories:
   - jmp
@@ -118,6 +119,6 @@ Wang, Tianyi, Rania Gihleb, Osea Giuntella, and Luca Stella. "Industrial Robots,
 
 Wang, Tianyi, Osea Giuntella and Yi Lu. "Is an Army of Robots Marching on Chinese Jobs?". IZA Discussion Paper No. 12281.
 
-责任编辑 | 秦雨、李明、庞乃琛、谢欣桐  
+责任编辑 | [秦雨](http://www.qinyurain.com/)、[李明](https://sites.google.com/view/mingli1)、庞乃琛、谢欣桐  
 
 校对 | 王天一
