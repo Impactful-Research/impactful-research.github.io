@@ -1,7 +1,7 @@
 ---
 title: "Jacob Moscona谈JMP创作心得"
 date: 2023-07-13 10:00:46 +0800
-authors:
+byline:
   - mingli
   - 苏丹
 excerpt: "Jacob Moscona来分享JMP创作心得啦！"

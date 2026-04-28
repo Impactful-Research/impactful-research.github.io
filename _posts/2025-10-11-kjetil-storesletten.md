@@ -1,7 +1,7 @@
 ---
 title: "Kjetil Storesletten教授分享RES（2025）创作心得"
 date: 2025-10-11 09:00:28 +0800
-authors:
+byline:
   - ruochendai
 excerpt: "Kjetil Storesletten教授分享RES(2025) 创作心得！"
 categories:

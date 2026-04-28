@@ -1,7 +1,7 @@
 ---
 title: "David Reeb教授谈JF（2003）创作心得"
 date: 2022-08-22 10:00:23 +0800
-authors:
+byline:
   - tianyueruan
   - mingli
 excerpt: "David Reeb教授来分享JF（2003）创作心得啦！"

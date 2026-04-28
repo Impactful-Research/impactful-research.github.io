@@ -1,7 +1,7 @@
 ---
 title: "王天一教授谈JMP创作心得"
 date: 2022-02-17 09:30:48 +0800
-authors:
+byline:
   - mingli
 excerpt: "王天一教授来分享JMP创作心得啦！"
 categories:

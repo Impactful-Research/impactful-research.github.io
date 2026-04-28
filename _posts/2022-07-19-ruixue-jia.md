@@ -1,7 +1,7 @@
 ---
 title: "贾瑞雪教授谈Econometrica（2016）创作心得"
 date: 2022-07-19 10:30:44 +0800
-authors:
+byline:
   - qinyu
 excerpt: "贾瑞雪教授来分享Econometrica（2016）创作心得啦！"
 categories:

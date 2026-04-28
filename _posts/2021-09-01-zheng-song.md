@@ -1,7 +1,7 @@
 ---
 title: "宋铮教授分享如何做出好的研究"
 date: 2021-09-01 11:19:57 +0800
-authors:
+byline:
   - qinyu
 excerpt: "宋铮教授分享如何做出好的研究！"
 categories:

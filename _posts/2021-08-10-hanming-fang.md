@@ -1,7 +1,7 @@
 ---
 title: "方汉明教授谈AER 2006创作心得"
 date: 2021-08-10 09:30:00 +0800
-authors:
+byline:
   - qinyu
 excerpt: "方汉明教授分享AER创作经验！"
 categories:

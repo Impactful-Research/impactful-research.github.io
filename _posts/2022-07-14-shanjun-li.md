@@ -1,7 +1,7 @@
 ---
 title: "李善军教授谈RES（2018）创作心得"
 date: 2022-07-14 10:00:46 +0800
-authors:
+byline:
   - qinyu
 excerpt: "李善军教授来分享RES（2018）创作心得啦！"
 categories:

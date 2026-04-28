@@ -1,7 +1,7 @@
 ---
 title: "张晓波教授谈JPE2011创作心得"
 date: 2021-06-24 10:06:24 +0800
-authors:
+byline:
   - qinyu
 excerpt: "张晓波教授来分享他的创作心得啦！"
 categories:

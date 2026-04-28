@@ -1,7 +1,7 @@
 ---
 title: "Loren Brandt教授分享JDE(2012)创作心得"
 date: 2025-01-28 08:59:32 +0800
-authors:
+byline:
   - ruochendai
 excerpt: "Loren Brandt教授万字干货分享来袭！"
 categories:

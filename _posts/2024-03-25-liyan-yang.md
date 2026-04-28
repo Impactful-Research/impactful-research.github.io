@@ -1,7 +1,7 @@
 ---
 title: "杨立岩教授分享如何做出好的研究"
 date: 2024-03-25 10:00:22 +0800
-authors:
+byline:
   - mingli
   - tianyueruan
 excerpt: "杨立岩教授来分享创作心得啦！"

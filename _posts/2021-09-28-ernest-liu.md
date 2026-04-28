@@ -1,7 +1,7 @@
 ---
 title: "Ernest Liu谈QJE2019创作心得"
 date: 2021-09-28 09:00:00 +0800
-authors:
+byline:
   - mingli
 excerpt: "Ernest Liu教授来分享JMP创作心得啦！"
 categories:

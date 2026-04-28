@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Roth教授分享计量经济学研究心得"
 date: 2025-01-01 09:02:08 +0800
-authors:
+byline:
   - qinyu
   - fanzhang
 excerpt: "Jonathan Roth教授分享计量经济学研究心得！"

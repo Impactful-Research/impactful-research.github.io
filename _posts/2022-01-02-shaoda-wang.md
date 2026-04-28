@@ -1,7 +1,7 @@
 ---
 title: "王绍达教授谈JMP创作心得"
 date: 2022-01-02 09:00:00 +0800
-authors:
+byline:
   - mingli
 excerpt: "王绍达教授来分享JMP创作心得啦！"
 categories:
