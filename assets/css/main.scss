@@ -14,3 +14,15 @@ $doc-font-size-x-large: $doc-font-size * 1.375;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Center body images uniformly across posts and pages, with consistent
+// vertical breathing room. `max-width: 100%` keeps images responsive
+// (capped at the content column on any screen); `margin: 1.5em auto`
+// centers without distorting intrinsic size. Inline styles on specific
+// images (e.g. the QR code on the About page) still win over this rule.
+.page__content img {
+  display: block;
+  margin: 1.5em auto;
+  max-width: 100%;
+  height: auto;
+}
