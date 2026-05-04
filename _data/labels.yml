@@ -8,6 +8,7 @@ categories:
   wisdom:    { en: "Research Insights", zh: "做研究心得" }
   essays:    { en: "Essays",           zh: "随笔" }
   pioneer:   { en: "Pioneer",          zh: "开拓者" }
+  announcements: { en: "Announcements", zh: "公告" }
 
 tags:
   econometrics:    { en: "Econometrics",            zh: "计量经济学" }
