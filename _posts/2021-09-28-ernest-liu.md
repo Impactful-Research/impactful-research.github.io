@@ -3,7 +3,7 @@ title: "Ernest Liu谈QJE2019创作心得<br>Ernest Liu on QJE (2019)"
 date: 2021-09-28 09:00:00 +0800
 byline:
   - mingli
-excerpt: "Ernest Liu教授来分享JMP创作心得啦！ Insights from Ernest Liu on writing the job market paper."
+excerpt: "Ernest Liu教授来分享JMP创作心得啦！<br>Insights from Ernest Liu on writing the job market paper."
 categories:
   - jmp
 tags:

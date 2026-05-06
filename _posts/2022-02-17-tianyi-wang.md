@@ -3,7 +3,7 @@ title: "王天一教授谈JMP创作心得<br>Tianyi Wang on Their Job Market Pap
 date: 2022-02-17 09:30:48 +0800
 byline:
   - mingli
-excerpt: "王天一教授来分享JMP创作心得啦！ Insights from Tianyi Wang on writing the job market paper."
+excerpt: "王天一教授来分享JMP创作心得啦！<br>Insights from Tianyi Wang on writing the job market paper."
 categories:
   - jmp
 tags:

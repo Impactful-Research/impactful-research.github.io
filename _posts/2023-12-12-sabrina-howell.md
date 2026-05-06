@@ -3,7 +3,7 @@ title: "Sabrina Howell教授谈AER（2017）创作心得<br>Sabrina Howell on AE
 date: 2023-12-12 10:00:08 +0800
 byline:
   - tianyueruan
-excerpt: "Sabrina Howell教授来分享AER（2017）创作心得啦！ Insights from Sabrina Howell on writing AER (2017)."
+excerpt: "Sabrina Howell教授来分享AER（2017）创作心得啦！<br>Insights from Sabrina Howell on writing AER (2017)."
 categories:
   - featured
 tags:

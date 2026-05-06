@@ -1,19 +1,21 @@
-# main links
+# main links. Titles use the site bilingual convention `zh<br>en`; the masthead
+# splits on <br> and wraps each half in <span lang="..."> so the language toggle
+# can hide the inactive language.
 main:
-  - title: "Home / 主页"
+  - title: "主页<br>Home"
     url: /
 
-  - title: "Series / 系列"
+  - title: "系列<br>Series"
     url: /categories/
 
-  - title: "Areas / 领域"
+  - title: "领域<br>Areas"
     url: /tags/
 
-  - title: "Archive / 归档"
+  - title: "归档<br>Archive"
     url: /year-archive/
 
-  - title: "About Us / 关于我们"
+  - title: "关于我们<br>About Us"
     url: /about/
 
-  - title: "Call For Proposals / 征集提案"
+  - title: "征集提案<br>Call for Proposals"
     url: /2026/05/04/call-for-proposals/

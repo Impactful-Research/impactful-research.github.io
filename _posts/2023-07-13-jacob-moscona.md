@@ -4,7 +4,7 @@ date: 2023-07-13 10:00:46 +0800
 byline:
   - mingli
   - 苏丹
-excerpt: "Jacob Moscona来分享JMP创作心得啦！ Insights from Jacob Moscona on writing the job market paper."
+excerpt: "Jacob Moscona来分享JMP创作心得啦！<br>Insights from Jacob Moscona on writing the job market paper."
 categories:
   - jmp
 tags:

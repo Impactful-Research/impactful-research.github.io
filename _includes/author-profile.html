@@ -17,7 +17,12 @@
     </h3>
     {% if author.bio %}
       <div class="author__bio p-note" itemprop="description">
-        {{ author.bio | markdownify }}
+        {%- assign bio_parts = author.bio | split: "<br>" -%}
+        {%- if bio_parts.size > 1 -%}
+          <p lang="zh">{{ bio_parts[0] }}</p><p lang="en">{{ bio_parts[1] }}</p>
+        {%- else -%}
+          {{ author.bio | markdownify }}
+        {%- endif -%}
       </div>
     {% endif %}
   </div>

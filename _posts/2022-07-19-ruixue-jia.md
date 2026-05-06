@@ -3,7 +3,7 @@ title: "贾瑞雪教授谈Econometrica（2016）创作心得<br>Ruixue Jia on Ec
 date: 2022-07-19 10:30:44 +0800
 byline:
   - qinyu
-excerpt: "贾瑞雪教授来分享Econometrica（2016）创作心得啦！ Insights from Ruixue Jia on writing Econometrica (2016)."
+excerpt: "贾瑞雪教授来分享Econometrica（2016）创作心得啦！<br>Insights from Ruixue Jia on writing Econometrica (2016)."
 categories:
   - featured
 tags:

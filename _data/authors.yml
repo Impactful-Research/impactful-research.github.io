@@ -1,26 +1,34 @@
 # Team members keyed by pinyin slug. Used by the per-post byline meta line —
 # each post's `byline:` front-matter field lists slugs that resolve here.
-# `name` is the Chinese display name; `home` is the author's personal URL.
-# (We use `byline:` rather than Minimal Mistakes' `author:`/`authors:` so the
-# sidebar consistently shows the site brand "Impactful Research" instead of
-# per-post author profiles.) Names listed in front matter without a slug here
-# render in bylines as plain text without a hyperlink.
+# `name` is the Chinese display name; `name_en` is the English display name
+# (used by the language toggle in `_includes/page__meta.html`); `home` is the
+# author's personal URL. (We use `byline:` rather than Minimal Mistakes'
+# `author:`/`authors:` so the sidebar consistently shows the site brand
+# "Impactful Research" instead of per-post author profiles.) Names listed in
+# front matter without a slug here render in bylines as plain text without a
+# hyperlink.
 
 ruochendai:
   name: "戴若尘"
+  name_en: "Ruochen Dai"
   home: "https://econ.cufe.edu.cn/info/1033/6641.htm"
 yajiehan:
   name: "韩亚婕"
+  name_en: "Yajie Han"
   home: "https://www.hanyajie.com/"
 mingli:
   name: "李明"
+  name_en: "Ming Li"
   home: "https://sites.google.com/view/mingli1"
 qinyu:
   name: "秦雨"
+  name_en: "Yu Qin"
   home: "http://www.qinyurain.com/"
 tianyueruan:
   name: "阮天悦"
+  name_en: "Tianyue Ruan"
   home: "https://truan.github.io/"
 fanzhang:
   name: "张帆"
+  name_en: "Fan Zhang"
   home: "https://sites.google.com/view/zack-zhangfan/zhang-fan%E5%BC%A0%E5%B8%86"

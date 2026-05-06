@@ -4,11 +4,7 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
-{% endif %}
+{% capture title %}{% include bilingual-text.html text=post.title %}{% endcapture %}
 
 <div class="{{ include.type | default: 'list' }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
@@ -25,6 +21,6 @@
       {% endif %}
     </h2>
     {% include page__meta.html type=include.type %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 280 }}</p>{% endif %}
+    {% if post.excerpt %}{% assign exc_parts = post.excerpt | split: "<br>" %}<p class="archive__item-excerpt" itemprop="description">{% if exc_parts.size > 1 %}<span lang="zh">{{ exc_parts[0] | markdownify | strip_html | truncate: 280 }}</span> <span lang="en">{{ exc_parts[1] | markdownify | strip_html | truncate: 280 }}</span>{% else %}{{ post.excerpt | markdownify | strip_html | truncate: 280 }}{% endif %}</p>{% endif %}
   </article>
 </div>

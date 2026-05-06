@@ -3,7 +3,7 @@ title: "李善军教授谈RES（2018）创作心得<br>Shanjun Li on RES (2018)"
 date: 2022-07-14 10:00:46 +0800
 byline:
   - qinyu
-excerpt: "李善军教授来分享RES（2018）创作心得啦！ Insights from Shanjun Li on writing RES (2018)."
+excerpt: "李善军教授来分享RES（2018）创作心得啦！<br>Insights from Shanjun Li on writing RES (2018)."
 categories:
   - featured
 tags:

@@ -3,7 +3,7 @@ title: "Dávid Krisztián Nagy教授分享经济地理学研究心得<br>Dávid 
 date: 2025-06-13 11:01:55 +0800
 byline:
   - fanzhang
-excerpt: "Dávid Krisztián Nagy 分享经济地理学研究心得！ Insights from Dávid Krisztián Nagy on doing economic geography research."
+excerpt: "Dávid Krisztián Nagy 分享经济地理学研究心得！<br>Insights from Dávid Krisztián Nagy on doing economic geography research."
 categories:
   - featured
 tags:

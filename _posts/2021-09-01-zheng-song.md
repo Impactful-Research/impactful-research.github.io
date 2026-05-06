@@ -3,7 +3,7 @@ title: "宋铮教授分享如何做出好的研究<br>Zheng (Michael) Song on Do
 date: 2021-09-01 11:19:57 +0800
 byline:
   - qinyu
-excerpt: "宋铮教授分享如何做出好的研究！ Insights from Zheng (Michael) Song on doing good research."
+excerpt: "宋铮教授分享如何做出好的研究！<br>Insights from Zheng (Michael) Song on doing good research."
 categories:
   - wisdom
 tags:

@@ -70,6 +70,56 @@ Bilingual display labels for both live in [`_data/labels.yml`](_data/labels.yml)
 | `urban-regional` | Urban & Regional | 城市与区域经济学 | R |
 | `culture` | Cultural Economics | 文化经济学 | Z |
 
+## Bilingual content · 中英双语
+
+The site has a client-side language toggle in the masthead. Visitors see one language at a time; the choice persists via `localStorage`, and first-time visitors are auto-detected from their browser language. With JavaScript disabled both languages remain visible — graceful degradation.
+
+For the toggle to work, content must be tagged with the active language. Four patterns:
+
+**1. Titles and excerpts (auto-handled).** Front-matter convention is `zh<br>en`; the templates split on `<br>` and wrap each half in `<span lang="...">`. Nothing else to do.
+
+**2. Single paragraphs — kramdown IAL on the next line:**
+
+```markdown
+**好的研究是怎样炼成的？**
+{:lang="zh"}
+
+**How does good research come to be?**
+{:lang="en"}
+```
+
+**3. Multi-paragraph blocks (lists, bullets, grouped sections) — wrap in a `<div lang="..." markdown="1">` block.** The `markdown="1"` attribute is required so kramdown still processes the markdown inside the div.
+
+```markdown
+<div lang="zh" markdown="1">
+1. 第一项
+2. 第二项
+
+附加说明。
+</div>
+
+<div lang="en" markdown="1">
+1. Item one
+2. Item two
+
+Additional note.
+</div>
+```
+
+**4. Inline `<span lang="...">`** for short bilingual text inside a single line — section headings, individual bullet items, link text:
+
+```markdown
+## <span lang="zh">缘起</span><span lang="en">Why we built this</span>
+
+- [<span lang="zh">戴若尘</span><span lang="en">Ruochen Dai</span>](https://example.com/)
+```
+
+Untagged content (images, emails, neutral symbols) shows in both modes — that's usually what you want for things like `![](image.png)` or a bare email address.
+
+Bylines toggle automatically when an author has both `name` and `name_en` in `_data/authors.yml` (see "Adding a new team member" below).
+
+The toggle infrastructure lives in `_includes/head/custom.html` (early-load detection + click handler), `_includes/masthead.html` (the button), `assets/css/main.scss` (the `html.lang-zh [lang="en"] { display: none }` rules), and `_includes/bilingual-text.html` (the Liquid helper for `<br>`-separated titles).
+
 ## Adding a new post
 
 Posts come from one of two paths: **direct authoring** (write straight to this repo) or **WeChat porting** (import an existing 公众号 article via a converter that lives in the private `WeChat-blog-porting` repo). Both produce a file at `_posts/YYYY-MM-DD-<slug>.md` with the same front-matter shape.
@@ -87,7 +137,7 @@ Posts come from one of two paths: **direct authoring** (write straight to this r
    byline:
      - qinyu                          # one or more slugs from _data/authors.yml
      - tianyueruan                    # (or raw Chinese names for non-team contributors)
-   excerpt: "中文摘要句子。 English excerpt sentence."   # bilingual: separate with a space (not <br>); single-language is fine
+   excerpt: "中文摘要句子。<br>English excerpt sentence."   # bilingual: separate with <br>, same convention as the title
    categories:
      - featured                       # exactly one of: featured | jmp | wisdom | essays | pioneer
    tags:
@@ -98,7 +148,7 @@ Posts come from one of two paths: **direct authoring** (write straight to this r
 
    `original_url:` is optional and only relevant for posts mirrored from WeChat.
 
-   **Bilingual title and excerpt.** Titles use `<br>` between the Chinese and English line — they render as two lines on listing pages and on the post page, and the `<br>` is stripped from `<title>` / OpenGraph tags so social previews stay clean. Excerpts use a single space (not `<br>`), because the archive listing pipes excerpts through `strip_html` to keep tag-truncation safe; both languages render on one wrapping line. Keep each language ≤ ~25 Chinese chars / ~60 English chars per side so listings stay tidy.
+   **Bilingual title and excerpt.** Both use `<br>` between the Chinese and English line. The site has a client-side language toggle (see [Bilingual content](#bilingual-content--中英双语) below) — only the active language is shown to visitors at a time. Keep each language ≤ ~25 Chinese chars / ~60 English chars per side so listings stay tidy.
 
 4. Write the body in markdown below the front matter. Use `_posts/` for examples — keep credit lines (`责任编辑 | …`) at the bottom if relevant.
 5. Preview locally with `bundle exec jekyll serve` (`http://localhost:4000/YYYY/MM/DD/<slug>/`).
@@ -115,6 +165,7 @@ Edit `_data/authors.yml` — add an entry with the pinyin slug as key, plus `nam
 ```yaml
 newperson:
   name: "新人"                          # Chinese display name shown in bylines
+  name_en: "New Person"                # English display name (used by the language toggle)
   home: "https://example.com/"         # personal URL the byline links to
 ```
 

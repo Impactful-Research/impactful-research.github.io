@@ -4,7 +4,7 @@ date: 2022-08-22 10:00:23 +0800
 byline:
   - tianyueruan
   - mingli
-excerpt: "David Reeb教授来分享JF（2003）创作心得啦！ Insights from David Reeb on writing JF (2003)."
+excerpt: "David Reeb教授来分享JF（2003）创作心得啦！<br>Insights from David Reeb on writing JF (2003)."
 categories:
   - featured
 tags:

@@ -18,10 +18,13 @@
                 href="{{ link.url | relative_url }}"
                 {% if link.description %} title="{{ link.description }}"{% endif %}
                 {% if link.target %} target="{{ link.target }}"{% endif %}
-              >{{ link.title }}</a>
+              >{%- assign nav_parts = link.title | split: "<br>" -%}{%- if nav_parts.size > 1 -%}<span lang="zh">{{ nav_parts[0] }}</span><span lang="en">{{ nav_parts[1] }}</span>{%- else -%}{{ link.title }}{%- endif -%}</a>
             </li>
           {%- endfor -%}
         </ul>
+        <button class="lang-toggle" type="button" aria-label="Toggle language">
+          <span lang="zh" aria-hidden="true">EN</span><span lang="en" aria-hidden="true">中</span>
+        </button>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>

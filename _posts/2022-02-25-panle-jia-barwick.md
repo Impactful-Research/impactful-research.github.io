@@ -3,7 +3,7 @@ title: "贾攀乐教授谈 Econometrica (2008) 创作心得<br>Panle Jia Barwick
 date: 2022-02-25 10:00:00 +0800
 byline:
   - qinyu
-excerpt: "康奈尔大学贾攀乐教授分享 Econometrica (2008) 创作经验 Insights from Cornell's Panle Jia Barwick on writing Econometrica (2008)."
+excerpt: "康奈尔大学贾攀乐教授分享 Econometrica (2008) 创作经验<br>Insights from Cornell's Panle Jia Barwick on writing Econometrica (2008)."
 categories:
   - featured
 tags:

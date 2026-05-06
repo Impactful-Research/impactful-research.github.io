@@ -26,3 +26,25 @@ $doc-font-size-x-large: $doc-font-size * 1.375;
   max-width: 100%;
   height: auto;
 }
+
+// Client-side language toggle (see _includes/head/custom.html).
+html.lang-zh [lang="en"] { display: none; }
+html.lang-en [lang="zh"] { display: none; }
+.lang-block { display: block; }
+
+.lang-toggle {
+  appearance: none;
+  background: transparent;
+  border: 1px solid currentColor;
+  border-radius: 4px;
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.85em;
+  font-weight: 600;
+  line-height: 1;
+  padding: 0.3em 0.55em;
+  margin: 0 0.5em;
+  color: inherit;
+
+  &:hover { color: #2980b9; border-color: #2980b9; }
+}

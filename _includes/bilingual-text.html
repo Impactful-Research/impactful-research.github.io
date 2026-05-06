@@ -1,0 +1,9 @@
+{%- comment -%}Splits `<br>`-separated bilingual text and wraps each half in `<span lang="...">` for the client-side toggle. Falls back to plain markdownify when no `<br>` is present.{%- endcomment -%}
+{%- assign parts = include.text | split: "<br>" -%}
+{%- if parts.size > 1 -%}
+{%- assign zh_html = parts[0] | markdownify | remove: "<p>" | remove: "</p>" -%}
+{%- assign en_html = parts[1] | markdownify | remove: "<p>" | remove: "</p>" -%}
+<span lang="zh" class="lang-block">{{ zh_html }}</span><span lang="en" class="lang-block">{{ en_html }}</span>
+{%- else -%}
+{{ include.text | markdownify | remove: "<p>" | remove: "</p>" }}
+{%- endif -%}
