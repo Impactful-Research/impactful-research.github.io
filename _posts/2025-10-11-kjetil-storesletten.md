@@ -1,9 +1,9 @@
 ---
-title: "Kjetil Storesletten教授分享RES（2025）创作心得"
+title: "Kjetil Storesletten教授分享RES（2025）创作心得<br>Kjetil Storesletten on RES (2025)"
 date: 2025-10-11 09:00:28 +0800
 byline:
   - ruochendai
-excerpt: "Kjetil Storesletten教授分享RES(2025) 创作心得！"
+excerpt: "Kjetil Storesletten教授分享RES(2025) 创作心得！ Insights from Kjetil Storesletten on writing RES (2025)."
 categories:
   - featured
 tags:

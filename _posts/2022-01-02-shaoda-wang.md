@@ -1,9 +1,9 @@
 ---
-title: "王绍达教授谈JMP创作心得"
+title: "王绍达教授谈JMP创作心得<br>Shaoda Wang on Their Job Market Paper"
 date: 2022-01-02 09:00:00 +0800
 byline:
   - mingli
-excerpt: "王绍达教授来分享JMP创作心得啦！"
+excerpt: "王绍达教授来分享JMP创作心得啦！ Insights from Shaoda Wang on writing the job market paper."
 categories:
   - jmp
 tags:

@@ -1,10 +1,10 @@
 ---
-title: "杨立岩教授分享如何做出好的研究"
+title: "杨立岩教授分享如何做出好的研究<br>Liyan Yang on Doing Good Research"
 date: 2024-03-25 10:00:22 +0800
 byline:
   - mingli
   - tianyueruan
-excerpt: "杨立岩教授来分享创作心得啦！"
+excerpt: "杨立岩教授来分享创作心得啦！ Insights from Liyan Yang on doing good research."
 categories:
   - wisdom
 tags:

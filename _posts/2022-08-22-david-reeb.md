@@ -1,10 +1,10 @@
 ---
-title: "David Reeb教授谈JF（2003）创作心得"
+title: "David Reeb教授谈JF（2003）创作心得<br>David Reeb on JF (2003)"
 date: 2022-08-22 10:00:23 +0800
 byline:
   - tianyueruan
   - mingli
-excerpt: "David Reeb教授来分享JF（2003）创作心得啦！"
+excerpt: "David Reeb教授来分享JF（2003）创作心得啦！ Insights from David Reeb on writing JF (2003)."
 categories:
   - featured
 tags:

@@ -1,10 +1,10 @@
 ---
-title: "Jacob Moscona谈JMP创作心得"
+title: "Jacob Moscona谈JMP创作心得<br>Jacob Moscona on Their Job Market Paper"
 date: 2023-07-13 10:00:46 +0800
 byline:
   - mingli
   - 苏丹
-excerpt: "Jacob Moscona来分享JMP创作心得啦！"
+excerpt: "Jacob Moscona来分享JMP创作心得啦！ Insights from Jacob Moscona on writing the job market paper."
 categories:
   - jmp
 tags:

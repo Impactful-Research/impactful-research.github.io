@@ -1,10 +1,10 @@
 ---
-title: "Jonathan Roth教授分享计量经济学研究心得"
+title: "Jonathan Roth教授分享计量经济学研究心得<br>Jonathan Roth on Doing Econometric Research"
 date: 2025-01-01 09:02:08 +0800
 byline:
   - qinyu
   - fanzhang
-excerpt: "Jonathan Roth教授分享计量经济学研究心得！"
+excerpt: "Jonathan Roth教授分享计量经济学研究心得！ Insights from Jonathan Roth on doing econometric research."
 categories:
   - wisdom
 tags:

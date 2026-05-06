@@ -1,9 +1,9 @@
 ---
-title: "方汉明教授谈AER 2006创作心得"
+title: "方汉明教授谈AER 2006创作心得<br>Hanming Fang on AER (2006)"
 date: 2021-08-10 09:30:00 +0800
 byline:
   - qinyu
-excerpt: "方汉明教授分享AER创作经验！"
+excerpt: "方汉明教授分享AER创作经验！ Insights from Hanming Fang on writing AER (2006)."
 categories:
   - featured
 tags:

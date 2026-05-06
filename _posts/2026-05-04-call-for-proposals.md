@@ -1,7 +1,7 @@
 ---
-title: "Impactful Research诚邀您的参与"
+title: "Impactful Research诚邀您的参与<br>Call for Proposals"
 date: 2026-05-04 10:00:23 +0800
-excerpt: "公开征集采访提案，常年有效，欢迎参与!"
+excerpt: "公开征集采访提案，常年有效，欢迎参与! An open call for interview proposals, year-round."
 categories:
   - announcements
 original_url: https://mp.weixin.qq.com/s/96ScvCgFBkhKhBHW44iyxg

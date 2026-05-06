@@ -1,9 +1,9 @@
 ---
-title: "Loren Brandt教授分享JDE(2012)创作心得"
+title: "Loren Brandt教授分享JDE(2012)创作心得<br>Loren Brandt on JDE (2012)"
 date: 2025-01-28 08:59:32 +0800
 byline:
   - ruochendai
-excerpt: "Loren Brandt教授万字干货分享来袭！"
+excerpt: "Loren Brandt教授万字干货分享来袭！ Insights from Loren Brandt on writing JDE (2012)."
 categories:
   - featured
 tags:

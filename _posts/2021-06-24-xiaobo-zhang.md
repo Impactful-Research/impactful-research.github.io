@@ -1,9 +1,9 @@
 ---
-title: "张晓波教授谈JPE2011创作心得"
+title: "张晓波教授谈JPE2011创作心得<br>Xiaobo Zhang on JPE (2011)"
 date: 2021-06-24 10:06:24 +0800
 byline:
   - qinyu
-excerpt: "张晓波教授来分享他的创作心得啦！"
+excerpt: "张晓波教授来分享他的创作心得啦！ Insights from Xiaobo Zhang on writing JPE (2011)."
 categories:
   - featured
 tags:

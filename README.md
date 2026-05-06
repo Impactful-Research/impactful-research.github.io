@@ -82,12 +82,12 @@ Posts come from one of two paths: **direct authoring** (write straight to this r
 
    ```yaml
    ---
-   title: "Post title — bilingual or single-language is fine"
+   title: "中文标题<br>English title"   # bilingual: separate the two languages with <br>; single-language is fine
    date: 2026-04-28 09:00:00 +0800
    byline:
      - qinyu                          # one or more slugs from _data/authors.yml
      - tianyueruan                    # (or raw Chinese names for non-team contributors)
-   excerpt: "One-line teaser shown on listing pages."
+   excerpt: "中文摘要句子。 English excerpt sentence."   # bilingual: separate with a space (not <br>); single-language is fine
    categories:
      - featured                       # exactly one of: featured | jmp | wisdom | essays | pioneer
    tags:
@@ -97,6 +97,8 @@ Posts come from one of two paths: **direct authoring** (write straight to this r
    ```
 
    `original_url:` is optional and only relevant for posts mirrored from WeChat.
+
+   **Bilingual title and excerpt.** Titles use `<br>` between the Chinese and English line — they render as two lines on listing pages and on the post page, and the `<br>` is stripped from `<title>` / OpenGraph tags so social previews stay clean. Excerpts use a single space (not `<br>`), because the archive listing pipes excerpts through `strip_html` to keep tag-truncation safe; both languages render on one wrapping line. Keep each language ≤ ~25 Chinese chars / ~60 English chars per side so listings stay tidy.
 
 4. Write the body in markdown below the front matter. Use `_posts/` for examples — keep credit lines (`责任编辑 | …`) at the bottom if relevant.
 5. Preview locally with `bundle exec jekyll serve` (`http://localhost:4000/YYYY/MM/DD/<slug>/`).
